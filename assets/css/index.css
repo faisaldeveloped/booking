@@ -244,6 +244,7 @@ body
 .menu_toggle
 {
     font-size: 25px;
+    color: var(--color-11);
 }
 
 .navbar
